@@ -1,6 +1,6 @@
-================================================================================
+
                   Image Analysis and Reporting Module Documentation
-================================================================================
+
 
 Welcome to the Image Analysis and Reporting Module documentation! This Python module
 helps you analyze image files using different techniques, such as steganography
